@@ -5,5 +5,5 @@ noch ein Inhalt
 das ist neu auf Master
 alles alt
 noch ein Inhalt
-auf local
+auf locale
 auf remote
